@@ -1,0 +1,16 @@
+{
+  "name": "train",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^3.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sasha.Hatskevich",
+  "license": "ISC"
+}
